@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=nunobem.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nunobem.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nunobem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnunobem&screen_name=nunobem)
 
-## I'm a Founder, Developer and Designer!!
+## I'm a Founder, Developer and Designer!
 
-- 🔭 I just launched [To Guests!][toguests]!
+- 🔭 I just launched [To Guests!][toguests]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on travel/hospitality tech
 - ⚡ Fun fact: I love to do SUP and Hike
@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][//#]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://nunobem.com]
 <img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
