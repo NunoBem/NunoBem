@@ -5,7 +5,7 @@
 
 ## I'm a Founder, Developer and Designer!
 
-- 🔭 I just launched [To Guests!][toguests]
+- 🔭 I just launched [Toguests!][toguests]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on travel/hospitality tech
 - ⚡ Fun fact: I love to do SUP and Hike
