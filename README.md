@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/nunobem" target="blank"><img src="https://img.shields.io/twitter/follow/nunobem?logo=twitter&style=for-the-badge" alt="nunobem" /></a> </p>
 
-- 🔭 I’m currently working on [Toguests](https://toguests.com)
+- 🔭 I’m currently working on Android and iOS apps
 
 - 🌱 I’m currently learning **.NET Blazor**
 
-- 💬 Ask me about **Xamarin, C#, XAML, .NET MAUI**
+- 💬 Ask me about **Xamarin, .NET MAUI, .NET for Android, .NET for iOS, C#, XAML, **
 
 - 📫 How to reach me [NunoBem.com](https://nunobem.com)
 
